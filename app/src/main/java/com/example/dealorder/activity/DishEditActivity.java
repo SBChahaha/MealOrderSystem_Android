@@ -53,7 +53,7 @@ public class DishEditActivity extends AppCompatActivity {
     // 【修改】智谱 GLM-Image (CogView) API 配置
     // 请在此处填入你在智谱开放平台申请的 API Key
     // ==========================================
-    private static final String GLM_API_KEY = "4ade6b1201794feb93e579d1f8bfb281.UP8KPugjAEs5pClC";
+    private static final String GLM_API_KEY = "";
     private static final String GLM_API_URL = "https://open.bigmodel.cn/api/paas/v4/images/generations";
 
     @Override
